@@ -22,7 +22,7 @@ Namaste, I'm Utkarsh. I'm a Data / Full-stack software engineer.
 Here's a summary of the things I usually touch:
 
   - POSIX Shell ; Bash ; Scala ; Python ; Go ; Java ; Haskell ; TypeScript ; Go ; C .
-  - Various web frameworks/technologies: React, Preact, HTMLx, _hyperscript.
+  - Various web frameworks/technologies: hexops/vecty, Flask, Falcon .
   - Docker ; Podman ; Kubernetes .
   - AWS .
   - Spark ; Trino .
@@ -30,6 +30,7 @@ Here's a summary of the things I usually touch:
   - Linux (Alpine, Arch, Ubuntu) ; macOS ; WSL .
   - F(L)OSS is the bee's knees.
   - Linux Ricing is also the knee of a bee.
+  - Play around with linux kernel sometimes, for my android devices.
 
   - Vim (vanilla ) ; Sublime Text 4 .
   
