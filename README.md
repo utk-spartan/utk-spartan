@@ -37,6 +37,7 @@ Here's a summary of the things I usually touch:
 Things I've used in the past and could get re-acquainted with:
 
   - C++ ; Javascript ; lua .
+  - Android App development
   - GopherJS ; Flask .
   - Azure .
 
